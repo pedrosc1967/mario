@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1088200963242",
+    "project_id": "mario-6043e",
+    "storage_bucket": "mario-6043e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088200963242:android:f8117d683a9c79d64c0cd3",
+        "android_client_info": {
+          "package_name": "com.aplanetbit.mario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088200963242-ln1eq4g9bavl460fr49e14u5mrrgpan9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplanetbit.mario",
+            "certificate_hash": "275e0b8fae457f902b89717250ef749158688609"
+          }
+        },
+        {
+          "client_id": "1088200963242-ngbujtbeduie70enoap218um896s9db9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGKfVkY5DeCUHYC5qIpblaPPnJlU9agU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088200963242-ngbujtbeduie70enoap218um896s9db9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

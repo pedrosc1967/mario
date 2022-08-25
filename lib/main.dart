@@ -141,9 +141,9 @@ class _MyAppState extends State<MyApp> {
   }
 
   Future<Map> getUserDetails(String accessToken) async {
-    const url = 'https://$AUTH0_DOMAIN/userinfo';
+     Uri url = Uri.parse('https://$AUTH0_DOMAIN/userinfo');
     final response = await http.get(
-      url as Uri,
+      url,
       headers: {'Authorization': 'Bearer $accessToken'},
     );
 
